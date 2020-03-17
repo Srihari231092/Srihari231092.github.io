@@ -6,7 +6,7 @@
 
 <img src="images/online-shopping.png?raw=true"/>
 
-Online Shopping purchasing behaviour was collected from a website over a 1 year period, and marked whether the visit ended in generating revenue or not.
+Online Shopping purchasing behaviour was collected from a website over one year.
 
 A predictive model was built using the given information to determine if the visit will end with an item being purchased.
 
