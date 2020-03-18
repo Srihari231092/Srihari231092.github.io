@@ -2,7 +2,7 @@
 
 ---
 
-### [Online Shoppers Purchasing Intention](https://github.com/Srihari231092/UCI_OnlineShoppers)
+### [Online Shoppers Purchasing Intention](/online_shoppers.md)
 
 <img src="images/online-shopping.png?raw=true"/>
 
