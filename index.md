@@ -13,9 +13,9 @@ A predictive model was built using the given information to determine if the vis
 
 ---
 
-### [Real Estate investment with short term rental](https://github.com/Srihari231092/airbnb_zillow_analytics/blob/master/README.md#roi-of-short-term-rental-schemes-of-real-estate-property)
+### [Real Estate investment with short term rental](https://github.com/Srihari231092/airbnb_zillow_analytics#roi-of-short-term-rental-schemes-of-real-estate-property)
 
-<a href="https://github.com/Srihari231092/airbnb_zillow_analytics/blob/master/README.md#roi-of-short-term-rental-schemes-of-real-estate-property">
+<a href="https://github.com/Srihari231092/airbnb_zillow_analytics#roi-of-short-term-rental-schemes-of-real-estate-property">
 <img src="images/airbnb-zillow.png?raw=true"/>
 </a>
 
