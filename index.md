@@ -22,5 +22,16 @@ A predictive model was built using the given information to determine if the vis
 The datasets from AirBnb and Zillow of New York City were analysed to identify Zipcodes where, if property were to be purchased and rented out short term, the time taken to generate profits through rental fees was identified.
 
 ---
+
+### [Improving University social media presence in Twitter](https://github.com/Srihari231092/twitter_feed_analysis#improving-university-social-media-presence-in-twitter)
+
+<a href="https://github.com/Srihari231092/twitter_feed_analysis#improving-university-social-media-presence-in-twitter">
+<img src="images/twitter.png?raw=true"/>
+</a>
+
+Twitter profiles related to multiple universities were analysed and compared to understand the factors that drive a more prolific social media presence, thereby improving outreach to prospective students and researchers.
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
