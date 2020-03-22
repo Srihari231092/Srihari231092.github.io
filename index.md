@@ -4,6 +4,8 @@
 
 ### [Online Shoppers Purchasing Intention](https://github.com/Srihari231092/UCI_OnlineShoppers#online-shoppers-purchasing-intention)
 
+
+
 <a href="https://github.com/Srihari231092/UCI_OnlineShoppers#online-shoppers-purchasing-intention">
 <img src="images/online-shopping.png?raw=true"/>
 </a>
@@ -16,6 +18,8 @@ A predictive model was built using the given information to determine if the vis
 
 ### [Real Estate investment with short term rental](https://github.com/Srihari231092/airbnb_zillow_analytics#roi-of-short-term-rental-schemes-of-real-estate-property)
 
+
+
 <a href="https://github.com/Srihari231092/airbnb_zillow_analytics#roi-of-short-term-rental-schemes-of-real-estate-property">
 <img src="images/airbnb-zillow.png?raw=true"/>
 </a>
@@ -25,6 +29,8 @@ The datasets from AirBnb and Zillow of New York City were analysed to identify Z
 ---
 
 ### [Improving University social media presence in Twitter](https://github.com/Srihari231092/twitter_feed_analysis#improving-university-social-media-presence-in-twitter)
+
+
 
 <a href="https://github.com/Srihari231092/twitter_feed_analysis#improving-university-social-media-presence-in-twitter">
 <img src="images/twitter.png?raw=true"/>
