@@ -5,7 +5,7 @@
 ## [Online Shoppers Purchasing Intention](/online_shoppers.md)
 
 
-<a href="/online_shoppers.md">
+<a href="/online_shoppers">
 <img src="images/online-shopping.png?raw=true"/>
 </a>
 
@@ -17,11 +17,11 @@ A predictive model was built using the given information to determine if the vis
 
 ---
 
-## [Improving University social media presence in Twitter]()
+## [Improving University social media presence in Twitter](https://github.com/Srihari231092/twitter_feed_analysis#improving-university-social-media-presence-in-twitter)
 
 
 
-<a href="">
+<a href="https://github.com/Srihari231092/twitter_feed_analysis#improving-university-social-media-presence-in-twitter">
 <img src="images/twitter.png?raw=true"/>
 </a>
 
@@ -32,11 +32,11 @@ Twitter profiles related to multiple universities were analysed and compared to 
 
 ---
 
-## [Real Estate investment with short term rental]()
+## [Real Estate investment with short term rental](https://github.com/Srihari231092/airbnb_zillow_analytics#roi-of-short-term-rental-schemes-of-real-estate-property)
 
 
 
-<a href="">
+<a href="https://github.com/Srihari231092/airbnb_zillow_analytics#roi-of-short-term-rental-schemes-of-real-estate-property">
 <img src="images/airbnb-zillow.png?raw=true"/>
 </a>
 
