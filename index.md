@@ -1,8 +1,8 @@
-# Portfolio
+# Projects
 
 ---
 
-### [Online Shoppers Purchasing Intention](https://github.com/Srihari231092/UCI_OnlineShoppers#online-shoppers-purchasing-intention)
+## [Online Shoppers Purchasing Intention](https://github.com/Srihari231092/UCI_OnlineShoppers#online-shoppers-purchasing-intention)
 
 
 
@@ -16,7 +16,7 @@ A predictive model was built using the given information to determine if the vis
 
 ---
 
-### [Real Estate investment with short term rental](https://github.com/Srihari231092/airbnb_zillow_analytics#roi-of-short-term-rental-schemes-of-real-estate-property)
+## [Real Estate investment with short term rental](https://github.com/Srihari231092/airbnb_zillow_analytics#roi-of-short-term-rental-schemes-of-real-estate-property)
 
 
 
@@ -28,7 +28,7 @@ The datasets from AirBnb and Zillow of New York City were analysed to identify Z
 
 ---
 
-### [Improving University social media presence in Twitter](https://github.com/Srihari231092/twitter_feed_analysis#improving-university-social-media-presence-in-twitter)
+## [Improving University social media presence in Twitter](https://github.com/Srihari231092/twitter_feed_analysis#improving-university-social-media-presence-in-twitter)
 
 
 
