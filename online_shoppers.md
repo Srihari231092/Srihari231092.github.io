@@ -37,7 +37,7 @@ As mentioned above, the dataset can be found in the [UCI ML repository](https://
  - Data set was split into three categories of Training, validation and holdout of <b>70%:15%:15%</b>
  - Sampling strategy employed was <b>stratified sampling</b> to maintina the imbalance ratio.
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/class_imb.png)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/class_imb.png)
 
 ## Key features that drove analysis 
 
@@ -49,37 +49,37 @@ Visits which generated revenue had a marked increase in the number of informatio
 
 The higher the number of informational and product pages visited, the more likely the visit ended with a purchase
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/info_prod.png)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/info_prod.png)
 
 ### Bounce rates and page values
 
 Visitors entering sites with lower bounce rates, or higher page values, were more likely to generate revenue
  
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/bounce_rates_page_val.PNG)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/bounce_rates_page_val.PNG)
 
 ### Monthly distribution
 
 While most sales happen in November, there is a large rise of traffic in the months of  March, May and December, but sales are not proportionately rising
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/month.png)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/month.png)
 
 
 ## Modeling Pipeline
 
 The data was subject through to a standard processing pipeline.
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/preproc_pipeline.PNG)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/preproc_pipeline.PNG)
 
 ### Feature selection - I
 
 Numerical columns were subject to correlation analysis to filter out highly correlated variables
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/num_corr.png)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/num_corr.png)
 
 
 Categorical variables were subject to Chi Square tests against the Revenue variable
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/chisq.PNG)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/chisq.PNG)
 
 
 ### Clustering
@@ -88,14 +88,14 @@ To visualize potential clustering of the preprocessed data, it was projected int
 
 Clustering algorithms like KMeans and DBSCAN could not form any significant groupings on the dataset
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/clustering.PNG)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/clustering.PNG)
 
 
 ### Feature selection - II
 
 The preprocessed data was classified using Logistic regression to establish a baseline, and to find significant features
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/logreg1.PNG)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/logreg1.PNG)
 
 Upon evaluating multiple feature selection methods, it was found that using the significant features, combined with weighting the desired Revenue group gave the best result
 
@@ -104,7 +104,7 @@ Upon evaluating multiple feature selection methods, it was found that using the 
 
 In a similar fashion, multiple classifiers were evaluated, with metrics and trade offs analyzed for each algorithm
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/classifiers.PNG)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/classifiers.PNG)
 
 
 While F1 scores were comparable, Precision and Recall values were deviant between each algorithm.
@@ -114,7 +114,7 @@ The final choice of algorithm was Logistic Regression to also retain interpretab
 
 The Logistic Regression model allowed us to retain comparable F1 scores, and study the effect of significant features on Revenue
 
-![alt_text](https://github.com/Srihari231092/UCI_OnlineShoppers/blob/master/res/img/logreg_final.PNG)
+![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/res/online_shoppers/logreg_final.PNG)
 
 - Page Values have the most positive effect on generating Revenue, increasing odds by upto 8 times for each 18 units.
 Similarly, the most deleterious effect is from Bounce Rates, where an increase in 0.04 reduces the odds by nearly 45%.
