@@ -37,6 +37,7 @@ As mentioned above, the dataset can be found in the [UCI ML repository](https://
  - Data set was split into three categories of Training, validation and holdout of <b>70%:15%:15%</b>
  - Sampling strategy employed was <b>stratified sampling</b> to maintina the imbalance ratio.
 
+<img src="res/online_shoppers/class_imb.png?raw=true"/>
 ![alt_text](https://github.com/Srihari231092/Srihari231092.github.io/tree/master/res/online_shoppers/class_imb.png)
 
 ## Key features that drove analysis 
