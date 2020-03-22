@@ -7,6 +7,7 @@
 <a href="https://github.com/Srihari231092/UCI_OnlineShoppers#online-shoppers-purchasing-intention">
 <img src="images/online-shopping.png?raw=true"/>
 </a>
+
 Online Shopping purchasing behaviour was collected from a website over one year.
 
 A predictive model was built using the given information to determine if the visit will end with an item being purchased.
