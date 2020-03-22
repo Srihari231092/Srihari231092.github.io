@@ -2,10 +2,10 @@
 
 ---
 
-## [Online Shoppers Purchasing Intention](https://github.com/Srihari231092/UCI_OnlineShoppers#online-shoppers-purchasing-intention)
+## [Online Shoppers Purchasing Intention](/online_shoppers)
 
 
-<a href="https://github.com/Srihari231092/UCI_OnlineShoppers#online-shoppers-purchasing-intention">
+<a href="/online_shoppers">
 <img src="images/online-shopping.png?raw=false"/>
 </a>
 
